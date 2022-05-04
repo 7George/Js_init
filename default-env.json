@@ -1,7 +1,7 @@
 {
 	"VCAP_SERVICES": {
         "xsuaa": [{
-            "name": "MyHANAApp-xsuaa-service",
+            "name": "MyHanaApp-xsuaa-service",
             "label": "xsuaa",
             "tags": ["xsuaa"],
             "credentials": {
