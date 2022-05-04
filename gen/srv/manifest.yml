@@ -1,0 +1,9 @@
+---
+applications:
+  - name: MyHanaApp-srv
+    path: .
+    memory: 256M
+    buildpacks:
+      - nodejs_buildpack
+    services:
+      - MyHanaApp-db
