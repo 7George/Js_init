@@ -35,7 +35,7 @@ modules:
         properties:
           name: srv-api
           url: '~{srv-url}'
-          forwardAuthToken: t
+          forwardAuthToken: true
       - name: MyHanaApp-db
     parameters:
       disk-quota: 256M
@@ -65,7 +65,7 @@ resources:
     parameters:
       path: ./xs-security.json
       service: xsuaa
-      service-name: MyHanaApp-xsuaa-service
+      service-name: MyHANAApp-xsuaa-service
       service-plan: application
   - name: MyHanaApp_html_repo_host
     type: org.cloudfoundry.managed-service
@@ -73,7 +73,7 @@ resources:
       service: html5-apps-repo
       service-plan: app-host
 parameters:
-  enable-parallel-deployments: true
+  enable-parallel-deployments: t
 build-parameters:
   before-all:
     - builder: custom

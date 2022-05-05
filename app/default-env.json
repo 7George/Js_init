@@ -11,8 +11,8 @@
             "tags": ["xsuaa"],
             "credentials": {
                 "apiurl": "https://api.authentication.eu10.hana.ondemand.com",
-                "clientid": "sb-myhanaapp!t131596",
-                "clientsecret": "op3EoHBoXU54X8uVOIo7yQn9nr4=",
+                "clientid": "sb-myhanaapp-i321354!t131596",
+                "clientsecret": "SCCh3fKz/6qM6tg/RbSTnaZDwH8=",
                 "credential-type": "instance-secret",
                 "identityzone": "ic2022",
                 "identityzoneid": "760dddf4-c960-4448-ab85-205b268c5e4c",
@@ -23,7 +23,7 @@
                 "uaadomain": "authentication.eu10.hana.ondemand.com",
                 "url": "https://ic2022.authentication.eu10.hana.ondemand.com",
                 "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs6ZQgazBzLChHxa2YOd0wz+imN4/pFDos75xWtxxF01Gndl4/Yynj42NyxXQELFDz07h9ipjZ4V13ayWmFFuGmHa5ejlI4EfHlq4JdyOkm1xx5YSpLUM3nCwGipcRXcMbSC9QutLHYJ8p8BbY8tdfrTuqMe4yS5W0He8aGkZwii56X9bX0orMuzfcBF8wkiIGKUtAQcJk9sOFCHxxRL9tJUdCFYvJNpE58GoIWmIqGJHXE7lqpqhS+u0e7Ts8cvyo+ShJKsccsofxNlnZ0nEsADDL6TSFd5j5AsoPD4qFt21V/s29L8MjqbVRvWMkbmmao3bF301T1zNuojRthPGNQIDAQAB-----END PUBLIC KEY-----",
-                "xsappname": "myhanaapp!t131596",
+                "xsappname": "myhanaapp-i321354!t131596",
                 "zoneid": "760dddf4-c960-4448-ab85-205b268c5e4c"
                }
         }],    
